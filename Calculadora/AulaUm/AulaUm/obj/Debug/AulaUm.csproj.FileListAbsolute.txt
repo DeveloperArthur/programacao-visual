@@ -1,0 +1,9 @@
+E:\executaveis liberados\AulaUm\AulaUm\bin\Debug\AulaUm.exe.config
+E:\executaveis liberados\AulaUm\AulaUm\bin\Debug\AulaUm.exe
+E:\executaveis liberados\AulaUm\AulaUm\bin\Debug\AulaUm.pdb
+E:\executaveis liberados\AulaUm\AulaUm\obj\Debug\AulaUm.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\AulaUm\AulaUm\obj\Debug\AulaUm.Properties.Resources.resources
+E:\executaveis liberados\AulaUm\AulaUm\obj\Debug\AulaUm.csproj.GenerateResource.Cache
+E:\executaveis liberados\AulaUm\AulaUm\obj\Debug\AulaUm.csproj.CoreCompileInputs.cache
+E:\executaveis liberados\AulaUm\AulaUm\obj\Debug\AulaUm.exe
+E:\executaveis liberados\AulaUm\AulaUm\obj\Debug\AulaUm.pdb
