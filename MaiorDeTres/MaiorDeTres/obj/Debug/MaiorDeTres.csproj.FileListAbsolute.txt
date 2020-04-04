@@ -1,0 +1,10 @@
+C:\Users\arthur.almeida\Downloads\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.exe.config
+C:\Users\arthur.almeida\Downloads\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.exe
+C:\Users\arthur.almeida\Downloads\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.pdb
+C:\Users\arthur.almeida\Downloads\MaiorDeTres\MaiorDeTres\obj\Debug\MaiorDeTres.csprojAssemblyReference.cache
+C:\Users\arthur.almeida\Downloads\MaiorDeTres\MaiorDeTres\obj\Debug\MaiorDeTres.Form1.resources
+C:\Users\arthur.almeida\Downloads\MaiorDeTres\MaiorDeTres\obj\Debug\MaiorDeTres.Properties.Resources.resources
+C:\Users\arthur.almeida\Downloads\MaiorDeTres\MaiorDeTres\obj\Debug\MaiorDeTres.csproj.GenerateResource.cache
+C:\Users\arthur.almeida\Downloads\MaiorDeTres\MaiorDeTres\obj\Debug\MaiorDeTres.csproj.CoreCompileInputs.cache
+C:\Users\arthur.almeida\Downloads\MaiorDeTres\MaiorDeTres\obj\Debug\MaiorDeTres.exe
+C:\Users\arthur.almeida\Downloads\MaiorDeTres\MaiorDeTres\obj\Debug\MaiorDeTres.pdb

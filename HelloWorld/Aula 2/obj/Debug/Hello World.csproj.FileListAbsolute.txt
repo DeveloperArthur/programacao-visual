@@ -1,0 +1,9 @@
+C:\Users\arthur.almeida\Downloads\Aula 2\Aula 2\bin\Debug\Aula 2.exe.config
+C:\Users\arthur.almeida\Downloads\Aula 2\Aula 2\bin\Debug\Aula 2.exe
+C:\Users\arthur.almeida\Downloads\Aula 2\Aula 2\bin\Debug\Aula 2.pdb
+C:\Users\arthur.almeida\Downloads\Aula 2\Aula 2\obj\Debug\Aula_2.Hello.resources
+C:\Users\arthur.almeida\Downloads\Aula 2\Aula 2\obj\Debug\Aula_2.Properties.Resources.resources
+C:\Users\arthur.almeida\Downloads\Aula 2\Aula 2\obj\Debug\Hello World.csproj.GenerateResource.cache
+C:\Users\arthur.almeida\Downloads\Aula 2\Aula 2\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\arthur.almeida\Downloads\Aula 2\Aula 2\obj\Debug\Aula 2.exe
+C:\Users\arthur.almeida\Downloads\Aula 2\Aula 2\obj\Debug\Aula 2.pdb

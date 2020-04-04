@@ -1,0 +1,10 @@
+C:\Users\arthur.almeida\Downloads\mediaDeIdades\mediaDeIdades\bin\Debug\mediaDeIdades.exe.config
+C:\Users\arthur.almeida\Downloads\mediaDeIdades\mediaDeIdades\bin\Debug\mediaDeIdades.exe
+C:\Users\arthur.almeida\Downloads\mediaDeIdades\mediaDeIdades\bin\Debug\mediaDeIdades.pdb
+C:\Users\arthur.almeida\Downloads\mediaDeIdades\mediaDeIdades\obj\Debug\mediaDeIdades.csprojAssemblyReference.cache
+C:\Users\arthur.almeida\Downloads\mediaDeIdades\mediaDeIdades\obj\Debug\mediaDeIdades.Form1.resources
+C:\Users\arthur.almeida\Downloads\mediaDeIdades\mediaDeIdades\obj\Debug\mediaDeIdades.Properties.Resources.resources
+C:\Users\arthur.almeida\Downloads\mediaDeIdades\mediaDeIdades\obj\Debug\mediaDeIdades.csproj.GenerateResource.cache
+C:\Users\arthur.almeida\Downloads\mediaDeIdades\mediaDeIdades\obj\Debug\mediaDeIdades.csproj.CoreCompileInputs.cache
+C:\Users\arthur.almeida\Downloads\mediaDeIdades\mediaDeIdades\obj\Debug\mediaDeIdades.exe
+C:\Users\arthur.almeida\Downloads\mediaDeIdades\mediaDeIdades\obj\Debug\mediaDeIdades.pdb
