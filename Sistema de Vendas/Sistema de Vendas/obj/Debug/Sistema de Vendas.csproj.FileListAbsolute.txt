@@ -1,0 +1,10 @@
+C:\Users\Arthur 2\source\repos\Sistema de Vendas\Sistema de Vendas\bin\Debug\Sistema de Vendas.exe.config
+C:\Users\Arthur 2\source\repos\Sistema de Vendas\Sistema de Vendas\bin\Debug\Sistema de Vendas.exe
+C:\Users\Arthur 2\source\repos\Sistema de Vendas\Sistema de Vendas\bin\Debug\Sistema de Vendas.pdb
+C:\Users\Arthur 2\source\repos\Sistema de Vendas\Sistema de Vendas\obj\Debug\Sistema de Vendas.csprojAssemblyReference.cache
+C:\Users\Arthur 2\source\repos\Sistema de Vendas\Sistema de Vendas\obj\Debug\Sistema_de_Vendas.Form1.resources
+C:\Users\Arthur 2\source\repos\Sistema de Vendas\Sistema de Vendas\obj\Debug\Sistema_de_Vendas.Properties.Resources.resources
+C:\Users\Arthur 2\source\repos\Sistema de Vendas\Sistema de Vendas\obj\Debug\Sistema de Vendas.csproj.GenerateResource.cache
+C:\Users\Arthur 2\source\repos\Sistema de Vendas\Sistema de Vendas\obj\Debug\Sistema de Vendas.csproj.CoreCompileInputs.cache
+C:\Users\Arthur 2\source\repos\Sistema de Vendas\Sistema de Vendas\obj\Debug\Sistema de Vendas.exe
+C:\Users\Arthur 2\source\repos\Sistema de Vendas\Sistema de Vendas\obj\Debug\Sistema de Vendas.pdb

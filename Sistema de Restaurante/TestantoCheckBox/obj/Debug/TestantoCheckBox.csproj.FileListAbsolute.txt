@@ -1,0 +1,10 @@
+C:\Users\Arthur 2\source\repos\TestantoCheckBox\TestantoCheckBox\bin\Debug\TestantoCheckBox.exe.config
+C:\Users\Arthur 2\source\repos\TestantoCheckBox\TestantoCheckBox\bin\Debug\TestantoCheckBox.exe
+C:\Users\Arthur 2\source\repos\TestantoCheckBox\TestantoCheckBox\bin\Debug\TestantoCheckBox.pdb
+C:\Users\Arthur 2\source\repos\TestantoCheckBox\TestantoCheckBox\obj\Debug\TestantoCheckBox.csprojAssemblyReference.cache
+C:\Users\Arthur 2\source\repos\TestantoCheckBox\TestantoCheckBox\obj\Debug\TestantoCheckBox.Form1.resources
+C:\Users\Arthur 2\source\repos\TestantoCheckBox\TestantoCheckBox\obj\Debug\TestantoCheckBox.Properties.Resources.resources
+C:\Users\Arthur 2\source\repos\TestantoCheckBox\TestantoCheckBox\obj\Debug\TestantoCheckBox.csproj.GenerateResource.cache
+C:\Users\Arthur 2\source\repos\TestantoCheckBox\TestantoCheckBox\obj\Debug\TestantoCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\Arthur 2\source\repos\TestantoCheckBox\TestantoCheckBox\obj\Debug\TestantoCheckBox.exe
+C:\Users\Arthur 2\source\repos\TestantoCheckBox\TestantoCheckBox\obj\Debug\TestantoCheckBox.pdb

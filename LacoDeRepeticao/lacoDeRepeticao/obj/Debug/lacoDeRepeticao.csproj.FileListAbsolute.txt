@@ -1,0 +1,10 @@
+C:\Users\Arthur 2\source\repos\lacoDeRepeticao\lacoDeRepeticao\bin\Debug\lacoDeRepeticao.exe.config
+C:\Users\Arthur 2\source\repos\lacoDeRepeticao\lacoDeRepeticao\bin\Debug\lacoDeRepeticao.exe
+C:\Users\Arthur 2\source\repos\lacoDeRepeticao\lacoDeRepeticao\bin\Debug\lacoDeRepeticao.pdb
+C:\Users\Arthur 2\source\repos\lacoDeRepeticao\lacoDeRepeticao\obj\Debug\lacoDeRepeticao.Form1.resources
+C:\Users\Arthur 2\source\repos\lacoDeRepeticao\lacoDeRepeticao\obj\Debug\lacoDeRepeticao.Properties.Resources.resources
+C:\Users\Arthur 2\source\repos\lacoDeRepeticao\lacoDeRepeticao\obj\Debug\lacoDeRepeticao.csproj.GenerateResource.cache
+C:\Users\Arthur 2\source\repos\lacoDeRepeticao\lacoDeRepeticao\obj\Debug\lacoDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Arthur 2\source\repos\lacoDeRepeticao\lacoDeRepeticao\obj\Debug\lacoDeRepeticao.exe
+C:\Users\Arthur 2\source\repos\lacoDeRepeticao\lacoDeRepeticao\obj\Debug\lacoDeRepeticao.pdb
+C:\Users\Arthur 2\source\repos\lacoDeRepeticao\lacoDeRepeticao\obj\Debug\lacoDeRepeticao.csprojAssemblyReference.cache
