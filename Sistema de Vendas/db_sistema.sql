@@ -1,6 +1,6 @@
-'produto', 'CREATE TABLE `produto` (\n  `id` int NOT NULL AUTO_INCREMENT,\n  `descricao` varchar(50) DEFAULT NULL,\n  `valor` double NOT NULL,\n  `id_categoria` int NOT NULL,\n  PRIMARY KEY (`id`)\n) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci'
+CREATE TABLE `produto` (\n  `id` int NOT NULL AUTO_INCREMENT,\n  `descricao` varchar(50) DEFAULT NULL,\n  `valor` double NOT NULL,\n  `id_categoria` int NOT NULL,\n  PRIMARY KEY (`id`)\n) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
 
-'categoria', 'CREATE TABLE `categoria` (\n  `id` int NOT NULL AUTO_INCREMENT,\n  `descricao` varchar(50) DEFAULT NULL,\n  PRIMARY KEY (`id`)\n) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci'
+CREATE TABLE `categoria` (\n  `id` int NOT NULL AUTO_INCREMENT,\n  `descricao` varchar(50) DEFAULT NULL,\n  PRIMARY KEY (`id`)\n) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
 
 insert into categoria (descricao) values ('jogo de quarto');
 insert into categoria (descricao) values ('jogo de cozinha');
